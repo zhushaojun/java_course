@@ -12,14 +12,14 @@
 
 ## 题目
 
-1. 动物换位（张雷婷）
+1. [动物换位（张雷婷）](https://github.com/zhangleiting/AnimalTransposition)
 2. 保存计算过程的计算器（周涛）
 3. 单词簿（段晓月）
-4. 广告墙（陈志勇）
-5. 标准化试题训练系统（陶佳超）
+4. [广告墙（陈志勇）](https://github.com/czy0204/GGQ)
+5. [标准化试题训练系统（陶佳超）](https://github.com/guxiqing/Test-training-system)
 6. 走迷宫（寿锡麟）
-7. 魔板游戏（王瑜）
-8. 扫雷游戏（施林沣）
+7. [魔板游戏（王瑜）](https://github.com/wangyv592/shiyan7)
+8. [扫雷游戏（施林沣）](https://github.com/uesugieriislf/Java-Class-Design)
 
 
 
